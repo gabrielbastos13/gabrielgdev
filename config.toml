@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "https://objective-galileo-263603.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 
@@ -31,5 +31,6 @@ enableRobotsTXT = true
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-blue"
-  featured_image = "/static/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+
