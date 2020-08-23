@@ -4,3 +4,6 @@
 [submodule "themes/themes/ananke"]
 	path = themes/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "static/admin"]
+	path = static/admin
+	url = https://github.com/woliveiras/netlify-cms-base.git
