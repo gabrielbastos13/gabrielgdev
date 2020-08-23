@@ -1,9 +1,10 @@
-title = "GABRIEL GONÇALVES"
-baseURL = "http://localhost:1313"
+title = "Notre-Dame de Paris"
+baseURL = "https://example.com"
 languageCode = "en-us"
-theme = "anankedit"
+theme = "gohugo-theme-ananke"
+themesDir = "../.."
 
-DefaultContentLanguage = "pt"
+DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
@@ -19,7 +20,7 @@ enableRobotsTXT = true
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/_gabrielSPEEDY"
+  twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
   youtube = ""
   github = ""
@@ -31,5 +32,5 @@ enableRobotsTXT = true
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/workspace.jpeg"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
