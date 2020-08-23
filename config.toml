@@ -1,5 +1,5 @@
 title = "GABRIEL GONÇALVES"
-baseURL = "http://localhost:1313"
+baseURL = "https://objective-galileo-263603.netlify.app/"
 languageCode = "en-us"
 theme = "anankedit"
 
