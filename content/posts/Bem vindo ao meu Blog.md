@@ -1,7 +1,7 @@
 ---
 date: 2020-08-23T21:00:00-03:00
 description: "Bem vindo ao meu blog"
-featured_image: "/static/images/study.jpeg"
+featured_image: "/images/study.jpeg"
 tags: ["study"]
 title: "START !"
 ---
