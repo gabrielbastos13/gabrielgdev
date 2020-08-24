@@ -1,11 +1,11 @@
 title = "GABRIEL GONÇALVES"
-baseURL = "https://gabrielgdev.netlify.app"
+baseURL = "http://localhost:1313"
 languageCode = "en-us"
 theme = "anankedit"
 
 DefaultContentLanguage = "pt"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 25
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -17,19 +17,19 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Estudante das tecnologias Front-End"
   facebook = ""
   twitter = "https://twitter.com/_gabrielSPEEDY"
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/gabrielbastos13"
   gitlab = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/gabriel-goncalves-bastos/"
   mastodon = ""
   slack = ""
   stackoverflow = ""
   rss = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/workspace.jpeg"
-  recent_posts_number = 2
+  recent_posts_number = 5
+  body_classes = "avenir bg-light-gray"
