@@ -3,7 +3,7 @@ title: Serviços Web
 date: '2021-01-21T11:15:55-03:00'
 autoThumbnailImage: false
 thumbnailImagePosition: top
-coverImage: /images/uploads/asd.png
+coverImage: /images/uploads/webservicesoverview.jpg
 ---
 Serviços web são soluções para diferentes sistemas se comunicarem, usando linguagem comum, seja XML ou JSON, por meio de protocolos genéricos universais, o mais comum HTTP.
 
